@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ultracareimagem.github.io" resolutions="1x,2x" timestamp="1533146314065">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ultracareimagem.com" resolutions="1x,2x" timestamp="1533237013348">
   <folder name="css">
     <file name="site_global.css" crc="4131756925"/>
-    <file name="master_a-mestre.css" crc="138816557" ref="index"/>
-    <file name="nomq_preview_master_a-mestre.css" crc="155946105" ref="index"/>
-    <file name="index.css" crc="149999071" ref="index"/>
-    <file name="nomq_index.css" crc="122782382" ref="index"/>
+    <file name="master_a-mestre.css" crc="3972541672" ref="index"/>
+    <file name="nomq_preview_master_a-mestre.css" crc="69451692" ref="index"/>
+    <file name="index.css" crc="4227041187" ref="index"/>
+    <file name="nomq_index.css" crc="3977500054" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="hinted-yantramanav-regular.woff" crc="3972919297"/>
@@ -30,42 +30,42 @@
     <file name="ativo 3logo_poster_u159.png" crc="4046682498" ref="index"/>
     <file name="ativo 5.svg" crc="4228435257" ref="index"/>
     <file name="ativo 5_poster_u221.png" crc="3815540653" ref="index"/>
-    <file name="ativo 10head2.jpg" crc="3986157101" ref="index"/>
-    <file name="ativo 10head2_2x.jpg" crc="410558894" ref="index"/>
-    <file name="ativo 10head2-u1405-fr.jpg" crc="4020607345" ref="index"/>
-    <file name="ativo 10head2-u1405-fr_2x.jpg" crc="4278629265" ref="index"/>
-    <file name="ativo 10head2-u1405-fr2.jpg" crc="107228181" ref="index"/>
-    <file name="ativo 10head2-u1405-fr_2x2.jpg" crc="334060024" ref="index"/>
-    <file name="ativo 10head2-u1405-fr3.jpg" crc="4277075098" ref="index"/>
-    <file name="ativo 10head2-u1405-fr_2x3.jpg" crc="4019428579" ref="index"/>
-    <file name="ativo 10head2-u1405-fr4.jpg" crc="4183327060" ref="index"/>
-    <file name="ativo 10head2-u1405-fr_2x4.jpg" crc="4020607345" ref="index"/>
-    <file name="ativo 10head2-u1405-fr5.jpg" crc="527138474" ref="index"/>
-    <file name="ativo 10head2-u1405-fr_2x5.jpg" crc="3914261461" ref="index"/>
-    <file name="ativo 6head-u862-fr.jpg" crc="114869498" ref="index"/>
-    <file name="ativo 6head-u862-fr_2x.jpg" crc="536230301" ref="index"/>
-    <file name="ativo 10head2-u1405-fr6.jpg" crc="3766027593" ref="index"/>
-    <file name="ativo 10head2-u1405-fr_2x6.jpg" crc="291927702" ref="index"/>
-    <file name="ativo 10head2-u1405-fr7.jpg" crc="237762026" ref="index"/>
-    <file name="ativo 10head2-u1405-fr_2x7.jpg" crc="137458372" ref="index"/>
     <file name="ativo 4logo.svg" crc="252048298" ref="index"/>
     <file name="ativo 4logo_poster_u148.png" crc="4062644923" ref="index"/>
-    <file name="ativo 6head-u862-fr2.jpg" crc="3896215534" ref="index"/>
-    <file name="ativo 6head-u862-fr_2x2.jpg" crc="3819386776" ref="index"/>
-    <file name="ativo 6head-u862-fr3.jpg" crc="3879570683" ref="index"/>
-    <file name="ativo 6head-u862-fr_2x3.jpg" crc="372118770" ref="index"/>
-    <file name="ativo 6head-u862-fr4.jpg" crc="4081514079" ref="index"/>
-    <file name="ativo 6head-u862-fr_2x4.jpg" crc="420134819" ref="index"/>
     <file name="ativo 7logo.svg" crc="4212156670" ref="index"/>
     <file name="ativo 7logo_poster_u440.png" crc="293974356" ref="index"/>
     <file name="ativo 3.svg" crc="46891325" ref="index"/>
     <file name="ativo 3_poster_u478.png" crc="464167152" ref="index"/>
-    <file name="ativo 6head-u862-fr5.jpg" crc="4113097255" ref="index"/>
-    <file name="ativo 6head-u862-fr_2x5.jpg" crc="4252884454" ref="index"/>
-    <file name="ativo 6head-u862-fr6.jpg" crc="460271035" ref="index"/>
-    <file name="ativo 6head-u862-fr_2x6.jpg" crc="203039691" ref="index"/>
-    <file name="ativo 6head-u862-fr7.jpg" crc="3846853511" ref="index"/>
-    <file name="ativo 6head-u862-fr_2x7.jpg" crc="423914072" ref="index"/>
+    <file name="ativo 16head-desktop.jpg" crc="41154693" ref="index"/>
+    <file name="ativo 16head-desktop_2x.jpg" crc="3983981297" ref="index"/>
+    <file name="ativo 16head-desktop-u1405-fr.jpg" crc="532203273" ref="index"/>
+    <file name="ativo 16head-desktop-u1405-fr_2x.jpg" crc="94652410" ref="index"/>
+    <file name="ativo 16head-desktop-u1405-fr2.jpg" crc="3854927763" ref="index"/>
+    <file name="ativo 16head-desktop-u1405-fr_2x2.jpg" crc="423111981" ref="index"/>
+    <file name="ativo 16head-desktop-u1405-fr3.jpg" crc="4210004243" ref="index"/>
+    <file name="ativo 16head-desktop-u1405-fr_2x3.jpg" crc="3946787669" ref="index"/>
+    <file name="ativo 16head-desktop-u1405-fr4.jpg" crc="409977681" ref="index"/>
+    <file name="ativo 16head-desktop-u1405-fr_2x4.jpg" crc="532203273" ref="index"/>
+    <file name="ativo 16head-desktop-u1405-fr5.jpg" crc="401534621" ref="index"/>
+    <file name="ativo 16head-desktop-u1405-fr_2x5.jpg" crc="3997206072" ref="index"/>
+    <file name="ativo 15head-mobile-u862-fr.jpg" crc="150851882" ref="index"/>
+    <file name="ativo 15head-mobile-u862-fr_2x.jpg" crc="215410127" ref="index"/>
+    <file name="ativo 16head-desktop-u1405-fr6.jpg" crc="4111903643" ref="index"/>
+    <file name="ativo 16head-desktop-u1405-fr_2x6.jpg" crc="116021419" ref="index"/>
+    <file name="ativo 16head-desktop-u1405-fr7.jpg" crc="3961447463" ref="index"/>
+    <file name="ativo 16head-desktop-u1405-fr_2x7.jpg" crc="3862415325" ref="index"/>
+    <file name="ativo 15head-mobile-u862-fr2.jpg" crc="4213843965" ref="index"/>
+    <file name="ativo 15head-mobile-u862-fr_2x2.jpg" crc="304593806" ref="index"/>
+    <file name="ativo 15head-mobile-u862-fr3.jpg" crc="3765993074" ref="index"/>
+    <file name="ativo 15head-mobile-u862-fr_2x3.jpg" crc="436352621" ref="index"/>
+    <file name="ativo 15head-mobile-u862-fr4.jpg" crc="475275568" ref="index"/>
+    <file name="ativo 15head-mobile-u862-fr_2x4.jpg" crc="4256765806" ref="index"/>
+    <file name="ativo 15head-mobile-u862-fr5.jpg" crc="3864063336" ref="index"/>
+    <file name="ativo 15head-mobile-u862-fr_2x5.jpg" crc="414060431" ref="index"/>
+    <file name="ativo 15head-mobile-u862-fr6.jpg" crc="4043897301" ref="index"/>
+    <file name="ativo 15head-mobile-u862-fr_2x6.jpg" crc="155086378" ref="index"/>
+    <file name="ativo 15head-mobile-u862-fr7.jpg" crc="4239156373" ref="index"/>
+    <file name="ativo 15head-mobile-u862-fr_2x7.jpg" crc="132276422" ref="index"/>
   </folder>
-  <file name="index.html" crc="530259032" seo="true" mt="1533146292037" redirect="true"/>
+  <file name="index.html" crc="342766261" seo="true" mt="1533236993918" redirect="true"/>
 </manifest>
