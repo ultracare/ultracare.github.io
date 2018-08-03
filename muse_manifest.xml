@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ultracareimagem.com" resolutions="1x,2x" timestamp="1533237013348">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ultracareimagem.com" resolutions="1x,2x" timestamp="1533314596756">
   <folder name="css">
-    <file name="site_global.css" crc="4131756925"/>
-    <file name="master_a-mestre.css" crc="3972541672" ref="index"/>
-    <file name="nomq_preview_master_a-mestre.css" crc="69451692" ref="index"/>
-    <file name="index.css" crc="4227041187" ref="index"/>
-    <file name="nomq_index.css" crc="3977500054" ref="index"/>
+    <file name="site_global.css" crc="3940513789"/>
+    <file name="master_a-mestre.css" crc="3986886056" ref="index"/>
+    <file name="nomq_preview_master_a-mestre.css" crc="99490636" ref="index"/>
+    <file name="index.css" crc="4174157762" ref="index"/>
+    <file name="nomq_index.css" crc="4121330399" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="hinted-yantramanav-regular.woff" crc="3972919297"/>
@@ -58,14 +58,14 @@
     <file name="ativo 15head-mobile-u862-fr_2x2.jpg" crc="304593806" ref="index"/>
     <file name="ativo 15head-mobile-u862-fr3.jpg" crc="3765993074" ref="index"/>
     <file name="ativo 15head-mobile-u862-fr_2x3.jpg" crc="436352621" ref="index"/>
-    <file name="ativo 15head-mobile-u862-fr4.jpg" crc="475275568" ref="index"/>
-    <file name="ativo 15head-mobile-u862-fr_2x4.jpg" crc="4256765806" ref="index"/>
-    <file name="ativo 15head-mobile-u862-fr5.jpg" crc="3864063336" ref="index"/>
-    <file name="ativo 15head-mobile-u862-fr_2x5.jpg" crc="414060431" ref="index"/>
-    <file name="ativo 15head-mobile-u862-fr6.jpg" crc="4043897301" ref="index"/>
-    <file name="ativo 15head-mobile-u862-fr_2x6.jpg" crc="155086378" ref="index"/>
-    <file name="ativo 15head-mobile-u862-fr7.jpg" crc="4239156373" ref="index"/>
-    <file name="ativo 15head-mobile-u862-fr_2x7.jpg" crc="132276422" ref="index"/>
+    <file name="ativo 18head-mobile2-u2780-fr.jpg" crc="152865261" ref="index"/>
+    <file name="ativo 18head-mobile2-u2780-fr_2x.jpg" crc="4214079313" ref="index"/>
+    <file name="ativo 18head-mobile2-u2741-fr.jpg" crc="96156334" ref="index"/>
+    <file name="ativo 18head-mobile2-u2741-fr_2x.jpg" crc="21191467" ref="index"/>
+    <file name="ativo 18head-mobile2-u2702-fr.jpg" crc="465929746" ref="index"/>
+    <file name="ativo 18head-mobile2-u2702-fr_2x.jpg" crc="4003614124" ref="index"/>
+    <file name="ativo 18head-mobile2-u2655-fr.jpg" crc="4249429957" ref="index"/>
+    <file name="ativo 18head-mobile2-u2655-fr_2x.jpg" crc="140116047" ref="index"/>
   </folder>
-  <file name="index.html" crc="342766261" seo="true" mt="1533236993918" redirect="true"/>
+  <file name="index.html" crc="3872210350" seo="true" mt="1533314570461" redirect="true"/>
 </manifest>
