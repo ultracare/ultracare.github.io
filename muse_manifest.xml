@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ultracareimagem.com" resolutions="1x,2x" timestamp="1533314596756">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ultracareimagem.com" resolutions="1x,2x" timestamp="1533665140405">
   <folder name="css">
-    <file name="site_global.css" crc="3940513789"/>
-    <file name="master_a-mestre.css" crc="3986886056" ref="index"/>
-    <file name="nomq_preview_master_a-mestre.css" crc="99490636" ref="index"/>
-    <file name="index.css" crc="4174157762" ref="index"/>
-    <file name="nomq_index.css" crc="4121330399" ref="index"/>
+    <file name="site_global.css" crc="4131756925"/>
+    <file name="master_a-mestre.css" crc="138816557" ref="index"/>
+    <file name="nomq_preview_master_a-mestre.css" crc="155946105" ref="index"/>
+    <file name="index.css" crc="4208629319" ref="index"/>
+    <file name="nomq_index.css" crc="4257522450" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="hinted-yantramanav-regular.woff" crc="3972919297"/>
@@ -67,5 +67,5 @@
     <file name="ativo 18head-mobile2-u2655-fr.jpg" crc="4249429957" ref="index"/>
     <file name="ativo 18head-mobile2-u2655-fr_2x.jpg" crc="140116047" ref="index"/>
   </folder>
-  <file name="index.html" crc="3872210350" seo="true" mt="1533314570461" redirect="true"/>
+  <file name="index.html" crc="475124795" seo="true" mt="1533665115319" redirect="true"/>
 </manifest>
